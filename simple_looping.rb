@@ -1,6 +1,6 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
-def loop_iterator(number_of_times)
+def loop_iterator
   counter=0
   loop do
   counter+=1
